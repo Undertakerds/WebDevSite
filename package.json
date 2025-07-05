@@ -4,6 +4,9 @@
   "type": "module",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "gulp default"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "browser-sync": "^3.0.4",
